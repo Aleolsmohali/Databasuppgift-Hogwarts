@@ -1,3 +1,3 @@
 DELETE FROM Enrollments
-WHERE StudentId = 4 AND CourseId = 2;
-
+WHERE StudentId = 4
+  AND CourseId = 2;
