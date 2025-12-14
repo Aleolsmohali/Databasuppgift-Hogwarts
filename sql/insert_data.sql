@@ -23,3 +23,4 @@ INSERT INTO Enrollments (StudentId, CourseId) VALUES
 (5, 3),
 (6, 4);
 
+
